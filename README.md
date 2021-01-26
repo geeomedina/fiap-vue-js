@@ -2,7 +2,7 @@
 
 ## Project on screen
 
-<img src="src/assets/print.JPG" width="50%">.
+<img src="src/assets/print.JPG" width="50%">
 
 ## Project setup
 ```
